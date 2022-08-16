@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href=https://www.linkedin.com/in/rafael-taborda-625402235/"><i>Rafael Taborda
   </i></a> 😃️</h1>
-  <p align="😃 Ola, eu sou Rafael Taborda  👨‍🎓Sou estudande de analise e desenvolvimento de sistemas! </p>
+  
 
             
                                                     
