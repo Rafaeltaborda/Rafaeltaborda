@@ -1,4 +1,4 @@
-   Ola, eu sou Rafael Taborda 😃
+   😃 Ola, eu sou Rafael Taborda 
   
   👨‍🎓Sou estudande de analise e desenvolvimento de sistemas!
   
