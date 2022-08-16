@@ -11,8 +11,8 @@ Estou buscando especialização em JavaScript,TypeScript,HTML5, CSS e PHP no mom
 
 <div align="center">
   <a href="https://github.com/Rafaeltaborda">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafaeltaborda&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeltaborda&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafaeltaborda&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeltaborda&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
