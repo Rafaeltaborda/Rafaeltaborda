@@ -1,12 +1,8 @@
-Atualmente estou cursando Análise desenvolvimento de sistemas. Estou buscando me especializar em JAVA, HTML5, CSS no momento. Meu objetivo é me tornar um desenvolvedor fullstack versátil, sempre aprendendo novas linguagens e frameworks causando assim um impacto positivo para a empresa que for atuar.
-
-
-linkedin:https://www.linkedin.com/in/rafael-taborda-625402235
-
-
-
-
-
+   Ola, eu sou Rafael Taborda 😃
+  
+  👨‍🎓Sou estudande de analise e desenvolvimento de sistemas!
+  
+ Estou me buscando  especialização em JavaScript,TypeScript,HTML5, CSS e PHP no momento. Meu objetivo é ser um desenvolvedor Front-end versátil, sempre aprendendo novas linguagens e causando assim um impacto positivo para a empresa 
 
 
 
