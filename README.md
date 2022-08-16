@@ -34,7 +34,7 @@ Estou buscando especialização em JavaScript,TypeScript,HTML5, CSS e PHP no mom
  
  
   <a href="https://www.linkedin.com/in/rafael-taborda-625402235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:rafaeltaborda2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="rafaeltaborda2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
