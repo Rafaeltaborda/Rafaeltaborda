@@ -7,7 +7,7 @@
                                                     
                                              
 
-Estou buscando especialização em JavaScript, TypeScript, HTML5, Node.JS, React, CSS e PHP no momento. Meu objetivo é ser um desenvolvedor Front-end versátil, sempre aprendendo novas linguagens e framework causando assim um impacto positivo para a empresa
+Estou buscando especialização em JavaScript, TypeScript, HTML5, React, CSS e PHP no momento. Meu objetivo é ser um desenvolvedor Front-end versátil, sempre aprendendo novas linguagens e framework causando assim um impacto positivo para a empresa
 
 
 <div align="center">
